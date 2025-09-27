@@ -35,3 +35,15 @@ Baseado no problema da proposta de trabalho da entrega, complete o documento a s
 | **RF005** | O sistema deve permitir ordenar a lista por ordem alfabética | |
 | **RF006** | O sistema deve permitir favoritar Pokémons para visualização rápida e utilização como filtro | |
 | **RF007** | O sistema deve permitir filtrar por intervalo (range) de valores de um atributo específico, como poder ou velocidade | |
+
+---
+
+## Requisitos Não Funcionais
+
+| ID      | Descrição |
+|---------|-----------|
+| *RNF001* | O sistema deve rodar em um servidor web |
+| *RNF002* | O sistema deve utilizar um banco de dados para armazenar e recuperar informações dos Pokémons |
+| *RNF003* | A interface deve ser responsiva, adaptando-se para dispositivos móveis, tablets e desktops |
+| *RNF004* | O sistema deve ser otimizado para ter um baixo uso de CPU/RAM |
+| *RNF005* | Queries (Pesquisas) devem ser guardadas em cache, para aumentar a velocidade e evitar repetir operações de análise e cálculos |
